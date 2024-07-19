@@ -1,0 +1,1 @@
+ /Users/hongren/Desktop/Side\ Project/easy_weather/.dart_tool/flutter_build/327d4fab89768a527a646131ad54f0e5/native_assets.yaml: 
