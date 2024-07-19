@@ -31,10 +31,10 @@ Get the current location weather now
 
     Get User location
 
-![locate](https://github.com/user-attachments/assets/97d91b09-a76e-4991-bd60-2e50a08ae460)
+<img src="https://github.com/user-attachments/assets/97d91b09-a76e-4991-bd60-2e50a08ae460" alt="locate" height="800" />
 
 - 立即獲取天氣狀況
 
-    Get real-time weather conditions"
+    Get real-time weather conditions
 
-![main](https://github.com/user-attachments/assets/a500e3a8-5c12-41b2-b2c5-850839af13cb)
+<img src="https://github.com/user-attachments/assets/a500e3a8-5c12-41b2-b2c5-850839af13cb" alt="locate" height="800" />
